@@ -1,0 +1,22 @@
+<svg width="238" height="470" viewBox="0 0 238 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="238" height="470">
+<rect width="238" height="470" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<g filter="url(#filter0_d)">
+<rect x="303.875" y="375.883" width="365.143" height="365.143" transform="rotate(139.391 303.875 375.883)"/>
+</g>
+<rect width="288.409" height="384.895" transform="matrix(-0.99285 0.119369 0.119369 0.99285 166.347 -71)"/>
+</g>
+<defs>
+<filter id="filter0_d" x="-215" y="98.6785" width="522.875" height="523.875" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
