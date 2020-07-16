@@ -120,7 +120,7 @@
         display: flex;
         flex-wrap: wrap;
     }
-    ul {
+    .ul {
         position: relative;
         display: flex;
         flex-direction: column;
